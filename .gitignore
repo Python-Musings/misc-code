@@ -1,0 +1,24 @@
+# svn
+.svn/
+
+# binaries
+*.pyc
+*.pyo
+__pycache__/
+*.exe
+
+# tmp
+*.log
+*.patch
+*.diff
+*.tmp
+
+# Windows etc
+desktop.ini
+.dropbox
+
+
+# IDE files
+.idea/
+# if a symlink
+.idea
